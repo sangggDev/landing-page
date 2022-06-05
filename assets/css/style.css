@@ -589,7 +589,7 @@ nav ul li a{
   bottom: 50px;
   right: 20px;
   display: none;
-  background: #2ED573;
+  background: #33bb6b;
   border: none;
   z-index: 10;
   color: white;
@@ -716,16 +716,16 @@ footer h6{
   }
 
   #portofolios .card{
-    margin:0 50px;
+    margin:0 22px;
   }
 
 
   #teams .card{
-    margin:0 40px;
+    margin:0 20px;
   }
 
   #teams-detail .card{
-    margin: 0 40px;
+    margin: 0 20px;
   }
    #teams-detail h2{
      text-align: center;
